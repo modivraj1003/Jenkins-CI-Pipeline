@@ -1,1 +1,1 @@
-Trigger test 2
+Automatic trigger test
