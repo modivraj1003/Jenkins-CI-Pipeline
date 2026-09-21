@@ -1,1 +1,1 @@
-Automatic Jenkins trigger test
+Trigger test 2
